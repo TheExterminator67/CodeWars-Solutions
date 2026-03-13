@@ -9,9 +9,8 @@ My solutions to 1 KYU Codewars kata, organized by language.
 ## Notes
 - These are my personal solutions and may not be the shortest.
 - I may refactor solutions over time as I learn new techniques.
+- Used Ai To Understand and help me with the Problems
+
 
 ## Disclaimer
 Kata descriptions are owned by Codewars and their authors. This repository contains **solutions only**.
-
--- Used Ai To Understand and help me with the Problems --
-
