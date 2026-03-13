@@ -12,3 +12,6 @@ My solutions to 1 KYU Codewars kata, organized by language.
 
 ## Disclaimer
 Kata descriptions are owned by Codewars and their authors. This repository contains **solutions only**.
+
+-- Used Ai To Understand and help me with the Problems --
+
